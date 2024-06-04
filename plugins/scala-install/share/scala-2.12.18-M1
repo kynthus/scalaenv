@@ -1,0 +1,4 @@
+sites=(
+    "https://downloads.typesafe.com/scala/2.12.18-M1"
+    );
+archive_file="scala-2.12.18-M1.tgz"

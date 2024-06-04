@@ -1,0 +1,4 @@
+sites=(
+    "https://downloads.typesafe.com/scala/2.13.11-M1"
+    );
+archive_file="scala-2.13.11-M1.tgz"
